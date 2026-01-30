@@ -1,6 +1,0 @@
-user_name = input("введите фамилию и имя...")
-user_age = input("укажите ваш возраст...")
-user_adress = input("Укажите ваше место проживания....")
-print("Ваши фамилия и имя:", user_name)
-print("Ваш возраст:", user_age)
-print("Ваш адрес:", user_adress)
